@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_1c8a102b8676cd6860a3578a9c2e532339abb296/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.2_d8099e1c87e2bb6bbe23282ef53dd04aca5d2b5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-20.0_0c0fd5cdfc37a723f8bf56f7680af9eca23dd5d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_ee09c51fdad13795a10479ceade9aa03b83c6629/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_7fb5138b79a6e238204cab0095c89f6c8be62844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_c429d7cb2849939e6642d32c29a3c1c00328687e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_3ca8e804efb52f348bdf8137eb3d5e28e688e1fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_7bcb25ebabf1835dcc702eb105587f54e6735736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_d9f94c4174e4450ded8f0a88872ce7f75f8e332d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="797125234e89f8f07df90264415be76fd40088db">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b847f46f9ab2324bdaae73ac1f816860de573cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a92a92f6c19bed0daf8cc0bd1fe1d06cf3f1ed58">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5ba43d986ff531da6457b93ae350d1d08a505353/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_a23b9df2067d96532be0d0d07cf08196bc6bccb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_b5f4e6e89f3b298fe4ac9898f240870404975f27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_d8a021833609cca4c8b241d12c67967b091b5c39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_27e73ce23bb67b32075430e1881d0bf6a293bb44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_3a5e2f1f570217efb99efecfa316acdf117738c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_30f3256b215d8442de4ba1e520a996c794d22cc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sibirsky/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/sibirsky/Factory/Temp/LibApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_142f69fa6ba5915dc2c1a9aae0e0f439dd22e051/classes.dex" />
+    </item>
+
+</items>
